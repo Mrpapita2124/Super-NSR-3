@@ -1,0 +1,4 @@
+[game]
+name = "Super Mario Bros. 3"
+cycle_accurate = true
+cycle_seed_file = "seeds.txt"

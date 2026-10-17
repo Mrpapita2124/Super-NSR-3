@@ -1,0 +1,11 @@
+[game]
+title = "Super Mario Bros. 3"
+
+# El archivo `game.toml` real lo usa NESRecomp para definir
+# el juego y, opcionalmente, ajustes de entrada o configuración.
+# Este ejemplo mínimo sirve como base para un runner cycle.
+
+# Puedes añadir aquí opciones según tu juego, por ejemplo:
+# [display]
+# scale = 2
+# vsync = true

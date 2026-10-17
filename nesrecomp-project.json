@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "tool": "nesrecomp",
+  "tool_version": "0.3.0",
+  "project_name": "Super-Mario-Bros-3-USA",
+  "source_rom_name": "Super Mario Bros. 3 (USA).nes",
+  "used_game_config": false,
+  "backend": "cycle",
+  "generated_at_unix": 1791252473
+}
